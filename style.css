@@ -783,6 +783,25 @@ input[type=checkbox]:checked ~ .sidebarIconToggle > .diagonal.part-2 {
   width: 100%;
   height: 400px;
 }
+
+/* CONTACT PAGE */
+
+.container h1 {
+  font-size: 1.5rem;
+  padding-bottom: 10px;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 500px;
+  border-radius: 5px;
+  padding: 20px;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
   
 /* SHOP PAGE */
 
