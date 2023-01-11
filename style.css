@@ -237,6 +237,7 @@ body, html {
 
       .promo a {
         display: inline-block;
+        position: relative;
         color: rgb(53, 36, 138);
       }
 
